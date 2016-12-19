@@ -4,8 +4,8 @@ This project aims at building a standalone blog system without the major use of 
 ## Introduction
 This project is meant for Assigment 1 of Computing for Voluntary Welfare Organisation (CVWO) at National University of Singapore (NUS).
 
-Author: Niu Yunpeng<br>
-Matriculation No. A0162492A
+Author: *Niu Yunpeng*<br>
+Matriculation No. *A0162492A*
 
 ### About me
 I am currently a Year 1 undergraduate student at NUS. My major is Computer Engineering. I love programming and solving challenges. I received NUS Science & Technology (S&T) Scholarship and had good academic results.
