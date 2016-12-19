@@ -20,9 +20,9 @@ I am currently a Year 1 undergraduate student at NUS. My major is Computer Engin
 In order to write a post, writer(s) need to login into this website first. A authentication page will prompt entering username and password so as to login into the account(s). After successful login, they will be given the authorization to write new posts.
 - Create / Modify / Delete posts (for writers)<br>
 This is about the content part of this blog system. Writers can do the following things:
-1. Create new posts
-2. Modify existing posts
-3. Delete existing posts
+	1. Create new posts
+	2. Modify existing posts
+	3. Delete existing posts
 - View / Comment posts (for visitors)<br>
 This is about the visitors to this blog system. Since they are not writers, they can only do as follows:
 1. View all the existing posts by writers
