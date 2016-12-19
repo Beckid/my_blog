@@ -25,8 +25,8 @@ This is about the content part of this blog system. Writers can do the following
 	3. Delete existing posts
 - View / Comment posts (for visitors)<br>
 This is about the visitors to this blog system. Since they are not writers, they can only do as follows:
-1. View all the existing posts by writers
-2. Comment and give their thoughts on existing posts by writers
+	1. View all the existing posts by writers
+	2. Comment and give their thoughts on existing posts by writers
 - Administration system<br>
 Managers can change everything in this system due to their root permission.
 
