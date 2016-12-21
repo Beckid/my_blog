@@ -7,7 +7,7 @@
 </head>
 <body>
 	<h1>My blog system</h1>
-	<p>If you are a writer, please click <a href="login.php">here</a> to login.</p>
+	<p>If you are a writer, please click <a href="view/login.html">here</a> to login.</p>
 	
 </body>
 </html>
