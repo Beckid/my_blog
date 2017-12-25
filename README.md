@@ -1,5 +1,5 @@
 # My Blog System
-This project aims at building a standalone blog system without the major use of existing system, such as Wordpress.
+This project aims at building a stand-alone PHP blog system without the major use of existing system, such as Wordpress.
 
 ## Introduction
 This project is meant for Assigment 1 of Computing for Voluntary Welfare Organisation (CVWO) at National University of Singapore (NUS).
@@ -10,8 +10,8 @@ Matriculation No. __A016****A__
 ### About me
 I am currently a Year 1 undergraduate student at NUS. My major is Computer Engineering. I love programming and solving challenges. I received NUS Science & Technology (S&T) Scholarship and had good academic results.
 
-- Website: [beckid.github.io](https://beckid.github.io/) (Under construction)
-- Email: neilniuyunpeng@gmail.com
+- Website: [yunpengn.github.io](https://yunpengn.github.io/)
+- Email: [neilniuyunpeng@gmail.com](mailto:neilniuyunpeng@gmail.com)
 - Facebook: [@Yunpeng Niu](https://www.facebook.com/NeilNiuYunpeng)
 - LinkedIn: [@Yunpeng Niu](https://www.linkedin.com/in/yunpeng-niu)
 
@@ -31,4 +31,4 @@ This is about the visitors to this blog system. Since they are not writers, they
 Managers can change everything in this system due to their root permission.
 
 ## Others
-This project is under GNU Public License (GPL) 3.0
+This project is under [GNU Public License (GPL) 3.0](LICENSE)
